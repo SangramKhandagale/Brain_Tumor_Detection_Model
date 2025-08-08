@@ -15,8 +15,8 @@ This is a Streamlit-based AI tool that detects types of brain tumors from MRI sc
 Open **VS Code terminal** and run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/brain-tumor-ai-app.git
-cd brain-tumor-ai-app
+git clone https://github.com/SangramKhandagale/Brain_Tumor_Detection_Model
+cd Brain_Tumor_Detection_Model
 
 🔍 Step 2: Verify Folder Structure
 Your folder should look like this:
